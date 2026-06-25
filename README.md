@@ -27,6 +27,7 @@ A responsive To-Do Application developed using HTML, CSS, and JavaScript that he
 The screenshots below demonstrates the application's task management interface.
 <img width="446" height="287" alt="Screenshot 2026-06-25 133253" src="https://github.com/user-attachments/assets/47d46d36-4849-48d8-b996-f18fc65606da" />
 <img width="446" height="290" alt="Screenshot 2026-06-25 133326" src="https://github.com/user-attachments/assets/1eef14a8-e6d7-4f38-b12d-802f0a4d51b0" />
+<img width="1600" height="781" alt="WhatsApp Image 2026-06-25 at 2 04 01 PM" src="https://github.com/user-attachments/assets/f57f4729-9a58-45d6-bffb-fb7b2a3c0632" />
 
 ## 👩‍💻 Author
 **Rajeshwari Datti**
